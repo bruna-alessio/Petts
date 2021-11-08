@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "391391351441",
+    "firebase_url": "https://bd-petts-default-rtdb.firebaseio.com",
+    "project_id": "bd-petts",
+    "storage_bucket": "bd-petts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391391351441:android:10d1a3fd81c1e8de67e530",
+        "android_client_info": {
+          "package_name": "com.instagram.cursoandroid.jamiltondamasceno.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391391351441-gmuelhbfrac28b5vgldak1i5ou1dsnmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.instagram.cursoandroid.jamiltondamasceno.instagram",
+            "certificate_hash": "e34f46eb4b1b1be2edebef28865f3399a03f9c4b"
+          }
+        },
+        {
+          "client_id": "391391351441-qaba388ski1kbvc136ol5cq95q9ov0k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLFrvQA__FPjh2d1ffcDHgt8H8CqossfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391391351441-qaba388ski1kbvc136ol5cq95q9ov0k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
