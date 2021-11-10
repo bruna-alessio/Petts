@@ -63,7 +63,7 @@ public class CadastrarPetPerdidoActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cadastrar_pet_perdido);
 
-        //Configurações iniciais_/
+        //Configurações iniciais/
         usuarioLogado = UsuarioFirebase.getDadosUsuarioLogado();
         storageRef = ConfiguracaoFirebase.getFirebaseStorage();
         identificadorUsuario = UsuarioFirebase.getIdentificadorUsuario();
